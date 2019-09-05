@@ -1,0 +1,38 @@
+p {
+    font-family: Times New Roman;
+    margin: 20px;
+}
+
+li.sign{
+    color: darkcyan;
+}
+
+header{
+    font-size: 30pt;
+    color: palevioletred
+}
+
+a{
+    padding: 15px;
+}
+
+footer{
+    padding: 20px;
+}
+
+#name{
+    font-family: Impact;
+    font-size: 40pt;
+}
+
+#firstparagraph{
+    color: darkred;
+}
+
+#secondparagraph{
+    color: firebrick;
+}
+
+#thirdparagraph{
+    color: crimson;
+}
